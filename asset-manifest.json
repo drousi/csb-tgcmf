@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://drousi.github.io/csb-tgcmf/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://drousi.github.io/csb-tgcmf/static/js/main.2d86a8cf.chunk.js",
+    "main.js.map": "https://drousi.github.io/csb-tgcmf/static/js/main.2d86a8cf.chunk.js.map",
+    "runtime-main.js": "https://drousi.github.io/csb-tgcmf/static/js/runtime-main.9e9a7eca.js",
+    "runtime-main.js.map": "https://drousi.github.io/csb-tgcmf/static/js/runtime-main.9e9a7eca.js.map",
+    "static/js/2.0e72ae88.chunk.js": "https://drousi.github.io/csb-tgcmf/static/js/2.0e72ae88.chunk.js",
+    "static/js/2.0e72ae88.chunk.js.map": "https://drousi.github.io/csb-tgcmf/static/js/2.0e72ae88.chunk.js.map",
+    "index.html": "https://drousi.github.io/csb-tgcmf/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://drousi.github.io/csb-tgcmf/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.0e72ae88.chunk.js.LICENSE.txt": "https://drousi.github.io/csb-tgcmf/static/js/2.0e72ae88.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e9a7eca.js",
+    "static/js/2.0e72ae88.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.2d86a8cf.chunk.js"
+  ]
+}
